@@ -15,6 +15,7 @@ class Query:
         """
         初始化查票信息
         """
+        # 简单测试git
         self.browser = Login.browser
         # 座位类型，订票下单时需要传入
         self.noSeat = '1'  # 无座
