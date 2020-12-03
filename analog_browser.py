@@ -8,6 +8,7 @@ disable_warnings(InsecureRequestWarning)
 
 
 class Browser(object):
+    """测试GIT"""
     """
     建立模拟浏览器，用于进行cookie存储，发送get、post请求等的操作。
     """
